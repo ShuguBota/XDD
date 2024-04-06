@@ -1,0 +1,4 @@
+repository "XDD@ShuguBota@cloud"
+  path "/"
+    br "/main"
+    co "/main"
